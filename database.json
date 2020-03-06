@@ -1,0 +1,41 @@
+{
+    "data": {
+        "brazil": {
+            "latest": {
+                "cases": 13,
+                "sources": [
+                    {
+                        "websitename": "G1",
+                        "link": "https://g1.globo.com/bemestar/coronavirus/noticia/2020/03/06/brasil-tem-13-casos-confirmados-de-novo-coronavirus.ghtml"
+                    },
+                    {
+                        "websitename": "Estadão",
+                        "link": "https://brasil.estadao.com.br/ao-vivo/coronavirus-no-brasil"
+                    }
+                ]
+            },
+            "states": [
+                {
+                    "uf": "SP",
+                    "cases": 10
+                },
+                {
+                    "uf": "RJ",
+                    "cases": 1
+                },
+                {
+                    "uf": "BA",
+                    "cases": 1
+                },
+                {
+                    "uf": "ES",
+                    "cases": 1
+                }
+            ]
+        }
+    },
+    "meta": {
+        "pages": 1,
+        "last_update": "06/03/2020 19:00"
+    }
+}
