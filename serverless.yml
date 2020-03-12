@@ -11,6 +11,7 @@ service: coronavirus-api
 provider:
   name: aws
   runtime: python3.7
+  profile: pessoal
 
 # The `functions` block defines what code to deploy
 functions:

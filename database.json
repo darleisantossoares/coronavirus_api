@@ -2,11 +2,11 @@
     "data": {
         "brazil": {
             "latest": {
-                "cases": 25,
+                "cases": 77,
                 "sources": [
                     {
-                        "websitename": "Estadao",
-                        "link": "https://brasil.estadao.com.br/ao-vivo/coronavirus-no-brasil"
+                        "websitename": "G1",
+                        "link": "https://g1.globo.com/bemestar/coronavirus/noticia/2020/03/12/brasil-tem-76-casos-confirmados-de-novo-coronavirus-diz-ministerio.ghtml"
                     }
                 ]
             },
@@ -51,6 +51,6 @@
     },
     "meta": {
         "pages": 1,
-        "last_update": "06/03/2020 19:00"
+        "last_update": "09/03/2020 11:12"
     }
 }
