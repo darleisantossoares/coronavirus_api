@@ -2,11 +2,11 @@
     "data": {
         "brazil": {
             "latest": {
-                "cases": 77,
+                "cases": 83,
                 "sources": [
                     {
-                        "websitename": "G1",
-                        "link": "https://g1.globo.com/bemestar/coronavirus/noticia/2020/03/12/brasil-tem-76-casos-confirmados-de-novo-coronavirus-diz-ministerio.ghtml"
+                        "websitename": "R7",
+                        "link": "https://noticias.r7.com/saude/santa-catarina-confirma-dois-casos-de-coronavirus-brasil-tem-83-12032020"
                     }
                 ]
             },
@@ -51,6 +51,6 @@
     },
     "meta": {
         "pages": 1,
-        "last_update": "09/03/2020 11:12"
+        "last_update": "12/03/2020 20:33"
     }
 }
