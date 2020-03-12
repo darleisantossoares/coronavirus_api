@@ -14,12 +14,27 @@
                 {
                     "uf": "SP",
                     "estate": "São Paulo",
-                    "cases": 16
+                    "cases": 46
                 },
                 {
                     "uf": "RJ",
                     "estate": "Rio de Janeiro",
-                    "cases": 3
+                    "cases": 16
+                },
+                {
+                    "uf": "PR",
+                    "estate": "Paraná",
+                    "cases": 6
+                },
+                {
+                    "uf": "RS",
+                    "estate": "Rio Grande do Sul",
+                    "cases": 4
+                },
+                {
+                    "uf": "PE",
+                    "estate": "Pernambuco",
+                    "cases": 2
                 },
                 {
                     "uf": "BA",
@@ -27,9 +42,14 @@
                     "cases": 2
                 },
                 {
-                    "uf": "ES",
-                    "estate": "Espirito Santo",
-                    "cases": 1
+                    "uf": "DF",
+                    "estate": "Distrito Federal",
+                    "cases": 2
+                },
+                {
+                    "uf": "SC",
+                    "estate": "Santa Catarina",
+                    "cases": 2
                 },
                 {
                     "uf": "AL",
@@ -42,8 +62,8 @@
                     "cases": 1
                 },
                 {
-                    "uf": "DF",
-                    "estate": "Distrito Federal",
+                    "uf": "ES",
+                    "estate": "Espírito Santo",
                     "cases": 1
                 }
             ]
