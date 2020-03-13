@@ -2,11 +2,11 @@
     "data": {
         "brazil": {
             "latest": {
-                "cases": 83,
+                "cases": 98,
                 "sources": [
                     {
-                        "websitename": "R7",
-                        "link": "https://noticias.r7.com/saude/santa-catarina-confirma-dois-casos-de-coronavirus-brasil-tem-83-12032020"
+                        "website": "ministério da Saúde",
+                        "link": "http://plataforma.saude.gov.br/novocoronavirus/"
                     }
                 ]
             },
@@ -71,6 +71,6 @@
     },
     "meta": {
         "pages": 1,
-        "last_update": "12/02/2020 20:33"
+        "last_update": "13/02/2020 14:06"
     }
 }

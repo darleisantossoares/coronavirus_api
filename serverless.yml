@@ -23,3 +23,8 @@ functions:
           path: casos
           method: get
           cors: true
+
+
+
+plugins:
+  - serverless-python-requirements
