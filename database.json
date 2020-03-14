@@ -3,10 +3,15 @@
         "brazil": {
             "latest": {
                 "cases": 98,
+                "cases_from_midia": 121,
                 "sources": [
                     {
                         "website": "ministério da Saúde",
                         "link": "http://plataforma.saude.gov.br/novocoronavirus/"
+                    },
+                    {
+                        "website": "R7",
+                        "link": "https://noticias.r7.com/saude/coronavirus-no-brasil-total-de-casos-chega-a-121-neste-sabado-14032020"
                     }
                 ]
             },
