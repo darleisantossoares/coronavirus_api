@@ -17,6 +17,7 @@ provider:
 functions:
   helloWorld:
     handler: handler.api
+    timeout: 30
     # The `events` block defines how to trigger the handler.helloWorld code
     events:
       - http:
