@@ -3,7 +3,7 @@
         "brazil": {
             "latest": {
                 "cases": 98,
-                "cases_from_midia": 221,
+                "cases_from_midia": 234,
                 "sources": [
                     {
                         "website": "ministério da Saúde",
@@ -11,7 +11,7 @@
                     },
                     {
                         "website": "G1",
-                        "link": "https://g1.globo.com/bemestar/coronavirus/noticia/2020/03/15/brasil-tem-176-casos-de-coronavirus-segundo-relatorio-do-ministerio-da-saude.ghtml"
+                        "link": "https://g1.globo.com/bemestar/coronavirus/noticia/2020/03/16/brasil-tem-234-casos-confirmados-de-novo-coronavirus-diz-ministerio.ghtml"
                     }
                 ]
             },
