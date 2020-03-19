@@ -3,7 +3,7 @@
         "brazil": {
             "latest": {
                 "cases": 98,
-                "cases_from_midia": 372,
+                "cases_from_midia": 533,
                 "sources": [
                     {
                         "website": "ministério da Saúde",
@@ -11,7 +11,7 @@
                     },
                     {
                         "website": "G1",
-                        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2020/03/18/sp-registra-mais-duas-mortes-por-coronavirus-total-vai-a-3.ghtml"
+                        "link": "https://g1.globo.com/bemestar/coronavirus/noticia/2020/03/19/casos-de-coronavirus-no-brasil-em-19-de-marco.ghtml"
                     }
                 ]
             },
