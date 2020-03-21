@@ -1,3 +1,4 @@
+import datetime 
 import json
 import os
 import pprint
@@ -10,9 +11,9 @@ def api(handler, context):
 
     health_secretary_data = get_data_from_health_secretary()
 
-    data['data']['brazil']['latest']['cases'] = health_secretary_data.get('total_cases')
-    data['data']['brazil']['states'] = health_secretary_data.get('states')
-    data['meta']['last_update'] = health_secretary_data.get('last_update')
+    data['data']['brazil']['latest']['cases'] = health_secretary_data.get('total_cases', 0)
+    data['data']['brazil']['states'] = health_secretary_data.get('states', [])
+    data['meta']['last_update'] = health_secretary_data.get('last_update', datetime.datetime.now().strftime("%d/%m/%Y"))
     
 
     return {
@@ -63,6 +64,9 @@ def get_data_from_health_secretary():
 
     if not r.status_code == requests.codes.ok:
         return None 
+
+    if len(r.text) == 0:
+        return {}
 
     resp = json.loads(r.text.replace('var database=',''))
 

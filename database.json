@@ -3,7 +3,7 @@
         "brazil": {
             "latest": {
                 "cases": 98,
-                "cases_from_midia": 654,
+                "cases_from_midia": 1000,
                 "sources": [
                     {
                         "website": "ministério da Saúde",
@@ -11,7 +11,7 @@
                     },
                     {
                         "website": "G1",
-                        "link": "https://g1.globo.com/bemestar/coronavirus/noticia/2020/03/20/casos-de-coronavirus-no-brasil-em-20-de-marco.ghtml"
+                        "link": "https://g1.globo.com/bemestar/coronavirus/noticia/2020/03/21/casos-de-coronavirus-no-brasil-em-21-de-marco.ghtml"
                     }
                 ]
             },
